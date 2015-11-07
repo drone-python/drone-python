@@ -1,0 +1,12 @@
+# Python gunkage
+*.pyc
+*.egg
+dist
+build
+MANIFEST
+
+# Editor/IDE stuff
+*~
+*.swp
+*.tmp
+.idea
