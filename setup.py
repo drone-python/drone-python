@@ -1,9 +1,17 @@
+import re
 from setuptools import setup, find_packages
 
 
+with open('drone/__init__.py', 'r') as fd:
+    version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
+                        fd.read(), re.MULTILINE).group(1)
+
+if not version:
+    raise RuntimeError('Cannot find version information')
+
 setup(
     name="drone",
-    version="0.1",
+    version=version,
     author="Greg Taylor",
     author_email="gtaylor@gc-taylor.com",
     description="Drone CI plugin utilities and HTTP API client",
