@@ -6,7 +6,7 @@ import sys
 import json
 
 
-def get_plugin_input():
+def get_input():
     """
     Look for input in argv and stdin. De-serialize and return whatever
     we can find.

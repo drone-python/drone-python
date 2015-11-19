@@ -1,6 +1,9 @@
 # Python gunkage
 *.pyc
 *.egg
+*.egg-info
+.coverage
+.tox
 dist
 build
 MANIFEST
