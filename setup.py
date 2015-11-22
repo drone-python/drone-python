@@ -29,7 +29,7 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
     packages=find_packages(exclude=['tests']),
-    package_data={'': ['*.txt', '*.rst']},
+    package_data={'': ['LICENSE', '*.txt', '*.rst']},
     tests_require=['nose'],
     test_suite='nose.collector',
 )
