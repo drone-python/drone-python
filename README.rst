@@ -11,8 +11,8 @@ drone-python
     :target: http://beta.drone.io/drone/drone-python
 
 
-This package contains a Python Drone_ HTTP API client, as well as utilities for
-use in creating Drone plugins.
+This package contains a Python Drone_ HTTP API client, as well everything
+needed to write Drone plugins_.
 
 Current Status
 --------------
@@ -26,3 +26,4 @@ License
 drone-python is licensed under the MIT License.
 
 .. _Drone: https://github.com/drone/drone
+.. _plugins: http://readme.drone.io/plugin/
