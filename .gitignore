@@ -13,3 +13,6 @@ MANIFEST
 *.swp
 *.tmp
 .idea
+
+# Documentation stuff
+docs/_build

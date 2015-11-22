@@ -1,0 +1,5 @@
+This file is here just to make sure that the _templates
+directory ends up tracked in git, even though it's "empty".
+
+If we ever add any other files in here, this one is safe
+to remove.
