@@ -1,0 +1,12 @@
+.. _Drone: http://try.drone.io/
+.. _Drone documentation: http://readme.drone.io/
+.. _Drone plugin marketplace: http://addons.drone.io/
+.. _Drone plugin documentation: http://readme.drone.io/plugin/
+.. _Drone Gitter room: https://gitter.im/drone/drone
+
+.. _drone-python Gitter room: https://gitter.im/drone/drone-python
+.. _drone-python: https://github.com/drone/drone-python
+.. _GitHub project: https://github.com/drone/drone-python
+.. _issue tracker: https://github.com/drone/drone-python/issues
+
+.. _MIT License: https://tldrlegal.com/license/mit-license

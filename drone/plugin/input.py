@@ -12,7 +12,7 @@ def get_input():
     we can find.
 
     :rtype: dict
-    :returns: A dictionary of parameters from Drone.
+    :return: A dictionary of parameters from Drone.
     :raises: ValueError if no valid input is found, since this is required
         for normal plugin operation.
     """
@@ -31,7 +31,7 @@ def _get_input_from_stdin():
 
     :rtype: str
     :return: The value passed to the plugin via stdin.
-    :raises: ValueError if nothing is passed in.
+    :raises: :py:class:`ValueError` if nothing is passed in.
     """
     params = sys.stdin.read()
     if not params:
