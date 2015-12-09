@@ -30,4 +30,6 @@ Publish plugins
 Deploy plugins
 --------------
 
-* None yet!
+* `drone-tower`_ - Runs commands on Ansible Tower.
+
+.. _drone-tower: https://github.com/msteinert/drone-tower
