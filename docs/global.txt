@@ -10,3 +10,4 @@
 .. _issue tracker: https://github.com/drone/drone-python/issues
 
 .. _MIT License: https://tldrlegal.com/license/mit-license
+.. _Go: https://golang.org/
