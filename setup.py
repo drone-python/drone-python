@@ -18,13 +18,20 @@ setup(
     long_description=open('README.rst').read(),
     license="MIT License",
     keywords="drone ci test plugin api",
-    url='https://github.com/gtaylor/drone-python',
+    url='https://github.com/drone/drone-python',
+    install_requires=['future'],
+    entry_points={
+        'console_scripts': [
+            'create-drone-plugin = drone.plugin.template:main',
+        ]
+    },
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: System Administrators',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
     ],
