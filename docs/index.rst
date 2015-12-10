@@ -15,6 +15,7 @@ User Guide
    :maxdepth: 2
 
    introduction
+   faq
    installation
 
 
@@ -23,8 +24,7 @@ Community Guide
 
 .. toctree::
    :maxdepth: 1
-
-   faq
+   
    support
    python_plugins
    release_notes

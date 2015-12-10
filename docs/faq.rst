@@ -24,5 +24,5 @@ drone-python over the more commonly used drone-go include:
 What Python versions do you support?
 ------------------------------------
 
-Python 2.7.x and >= 3.2. While you may be able to use drone-python on
+Python 2.7.x and >= 3.3. While you may be able to use drone-python on
 earlier versions, we don't officially support them.
