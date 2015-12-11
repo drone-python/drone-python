@@ -22,7 +22,7 @@ setup(
     install_requires=['future'],
     entry_points={
         'console_scripts': [
-            'create-drone-plugin = drone.plugin.template:main',
+            'create-drone-py-plugin = drone.cli.plugin_creator:main',
         ]
     },
     classifiers=[
