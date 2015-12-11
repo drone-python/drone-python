@@ -2,8 +2,8 @@
 
 .. include:: global.txt
 
-Writing a Plugin
-================
+How to write a Drone plugin
+===========================
 
 As the `Drone plugin documentation`_ says, all Drone plugins are ran in
 Docker containers. A JSON string is passed in as the container's arguments,
