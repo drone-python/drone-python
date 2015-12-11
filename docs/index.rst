@@ -17,6 +17,7 @@ User Guide
    introduction
    faq
    installation
+   writing_a_plugin
 
 
 Community Guide

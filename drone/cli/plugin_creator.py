@@ -74,6 +74,7 @@ def prompt_for_variables(plugin_path):
         'PLUGIN_NAME': os.path.basename(plugin_path),
         'SHORT_DESCRIPTION': '',
         'AUTHOR_NAME': '',
+        'AUTHOR_EMAIL': '',
         'ORG_OR_AUTHOR_USERNAME': '',
         'YEAR': str(datetime.datetime.now().year),
     }
@@ -84,6 +85,9 @@ def prompt_for_variables(plugin_path):
     while not template_vars['AUTHOR_NAME']:
         template_vars['AUTHOR_NAME'] = \
             input("What is the plugin author's name?: ").strip()
+    while not template_vars['AUTHOR_EMAIL']:
+        template_vars['AUTHOR_EMAIL'] = \
+            input("What is the plugin author's email address?: ").strip()
     while not template_vars['SHORT_DESCRIPTION']:
         template_vars['SHORT_DESCRIPTION'] = \
             input("Provide a one-sentence overview of the plugin: ").strip()
