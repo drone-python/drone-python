@@ -29,7 +29,9 @@ used for separators. For example::
 Running this will fetch the latest Python Drone plugin template from GitHub,
 then fill in some variables based on your responses to some questions. The
 end result is a fully-functioning example plugin with much of the
-foundation work already done.
+foundation work already done. Assuming you entered the example command
+above, your new plugin would be in the ``my-plugin`` sub-directory within
+your current directory.
 
 Write your logic
 ----------------
