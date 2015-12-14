@@ -15,7 +15,6 @@ Distribute & Pip
 Installing Requests is simple with pip_, just run this in your terminal::
 
     $ pip install drone
-    or, with easy_install:
 
 .. _pip: https://pip.pypa.io/
 
