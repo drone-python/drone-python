@@ -5,7 +5,7 @@
 Support
 =======
 
-If you have questions or issues about Requests, there are several options:
+If you have questions or issues about drone-python, there are several options:
 
 File an Issue
 -------------
