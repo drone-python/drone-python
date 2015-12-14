@@ -12,7 +12,7 @@ this in your development environment, as well as in your plugins'
 Distribute & Pip
 ----------------
 
-Installing Requests is simple with pip_, just run this in your terminal::
+Installing drone-python is simple with pip_, just run this in your terminal::
 
     $ pip install drone
 
