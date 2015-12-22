@@ -2,8 +2,8 @@
 
 .. include:: global.txt
 
-Support
-=======
+Support and Discussion channels
+===============================
 
 If you have questions or issues about drone-python, there are several options:
 
@@ -13,8 +13,16 @@ File an Issue
 If you run into unexpected behavior or have ideas for new features,
 `file an issue on on GitHub <issue tracker_>`_.
 
+Drone Discussion Site
+---------------------
+
+The Drone community has a `Drone discussion site`_ that is used for all sorts
+of interaction, support, and development planning. Within the Discussion Site,
+we have a dedicated Python category where you can interact with other
+drone-python users and developers.
+
 Gitter
 ------
 
-In addition to the primary `Drone Gitter room`_, we have a more specific
-`drone-python Gitter room`_ for discussion, support, and general Tomfoolery.
+We also have a `drone-python Gitter room`_ as a real-time alternative,
+though it is more development oriented.
