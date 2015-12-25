@@ -17,8 +17,22 @@ needed to write Drone plugins_.
 Current Status
 --------------
 
-Very early goings! Zero guarantees on backwards compatibility for now.
-Input and feedback is encouraged and sought after.
+drone-python provides a stable plugin module. The HTTP API client is still
+in flux.
+
+Documentation
+-------------
+
+For more information on how to use drone-python, see the
+`documentation site`_.
+
+Getting Help
+------------
+
+If you have questions or run into issues, create an issue on the
+`issue tracker`_. If you'd like to talk shop with other drone-python
+users and developers, see our `Gitter room`_ or our sub-forum on the
+`Drone Discussion site`_.
 
 License
 -------
@@ -27,3 +41,6 @@ drone-python is licensed under the MIT License.
 
 .. _Drone: https://github.com/drone/drone
 .. _plugins: http://readme.drone.io/plugin/
+.. _documentation site: http://drone-python.readthedocs.org/en/latest/
+.. _Gitter room: https://gitter.im/drone/drone-python
+.. _Drone Discussion site: https://discuss.drone.io/c/plugins-and-apis/python
