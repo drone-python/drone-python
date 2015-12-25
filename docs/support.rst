@@ -18,8 +18,10 @@ Drone Discussion Site
 
 The Drone community has a `Drone discussion site`_ that is used for all sorts
 of interaction, support, and development planning. Within the Discussion Site,
-we have a dedicated Python category where you can interact with other
+we have a dedicated `Python category`_ where you can interact with other
 drone-python users and developers.
+
+.. _Python category: https://discuss.drone.io/c/plugins-and-apis/python
 
 Gitter
 ------
