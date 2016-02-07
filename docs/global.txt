@@ -1,6 +1,6 @@
 .. _Drone: http://try.drone.io/
 .. _Drone documentation: http://readme.drone.io/
-.. _Drone plugin marketplace: http://addons.drone.io/
+.. _Drone plugin marketplace: http://readme.drone.io/plugins/
 .. _Drone plugin documentation: http://readme.drone.io/plugin/
 .. _Drone Gitter room: https://gitter.im/drone/drone
 .. _Drone discussion site: http://discuss.drone.io/
